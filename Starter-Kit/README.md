@@ -1,6 +1,6 @@
 # Alien vs. Zombie
 
-[Video Demo](https://youtu.be/XhVembJ9fTs).
+[Video Demo](https://youtu.be/Xd9gl9pTWbg).
 
 ## Compilation Instructions
 
