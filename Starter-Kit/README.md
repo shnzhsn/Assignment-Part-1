@@ -1,12 +1,10 @@
 # Alien vs. Zombie
 
-Please introduce the game here.
-
 [Video Demo](https://youtu.be/XhVembJ9fTs).
 
 ## Compilation Instructions
 
-g++ main.cpp pf/helper.cpp pf/gameboard.cpp pf/alien.cpp pf/zombie.cpp -o a
+g++ main.cpp pf/helper.cpp pf/gameboard.cpp pf/characters.cpp -o a
 
 ## User Manual
 

@@ -20,19 +20,21 @@ public:
     void displaySettings();  // display settings
     void setObject(int x, int y, char ch);  // set object at index
     char getObject(int x, int y) const;  // get object at index
+    void findObject(char object, int& x, int& y);
 
     // for other files
-    int getZombie() const; 
-    int getDimX() const; 
-    int getDimY() const;  
-    char getObj() const;
-    char gettempObj() const;
+    int getNum(char item) const;
+    char getChar(char item) const;
 
     //for alien
-    int newALienX, newAlienY;
-    // void switchArrow();
-    void moveAlien(string command, int count);
-    void outputObj();
+    void switchArrow();
+    void moveAlien(string command); 
+    void outputObj(); 
+    void resetTrail();
+    void podAtk(int x, int y);
+
+    //for zombie
+    void moveZombie(char count, int range, int atk);
     
 
 

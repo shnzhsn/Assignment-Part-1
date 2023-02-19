@@ -2,50 +2,34 @@
 
 ## Video Demo
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+[Video Demo](https://youtube.com).
 
 ## Minimum Requirements
 
 ### Completed
 
-List all the features completed.
-
-1. Cool Feature #1
-2. Cool Feature #2
-3. *add more*
+1. Game board
+2. Attributes
+3. Alien Movement and Attack
+4. Help Command
+5. Quit Command
+6. Zombie Movement and Attack
+7. Arrow Command
+8. Pod Attack
+9. Trail and Reset Trail
 
 ### To Do
 
-List all the features not yet done. Remove this section if there is no incomplete requirements.
-
-1. Cool Feature #1
-2. *add more*
+1. Save and load feature
 
 ## Additional Features
 
-Describe the additional features that has been implemented.
+1. None
 
 ## Contributions
 
-List down the contribution of each group members.
+### Shahnaz
 
-For example:
-
-### Tony Stark
-
-1. Randomly generate game board.
-2. *add more*
-
-### Steve Rogers
-
-1. Zombie movement and attack behaviour.
-2. *add more*
-
-### Dr. Strange
-
-1. Implement all game objects.
-2. *add more*
+1. All
 
 ## Problems Encountered & Solutions
-
-Describe the problems encountered and provide the solutions / plan for the solutions.
